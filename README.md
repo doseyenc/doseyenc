@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Android Development.**
 
-- 🌱 I’m currently learning **Kotlin**
-
 - 💬 Ask me about **Java, Kotlin, Android**
 
 - 📫 How to reach me **doseyenc@gmail.com**
