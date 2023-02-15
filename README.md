@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Android Development**
 
+-  I’m currently learning  **IOS Development**
+
 - 💬 Ask me about **java,kotlin,android**
 
 - 📫 How to reach me **doseyenc@gmail.com**
