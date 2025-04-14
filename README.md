@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 I’m currently learning IOS Development<br>💬 Ask me about Kotlin , Java<br>
+🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose**<br>
 
 
 ## 🌐 Socials:
