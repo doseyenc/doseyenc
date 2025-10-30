@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose**<br>👨🏻‍💻 Currently learning **Ktor**
+🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose**<br>
 
 
 ## 🌐 Socials:
