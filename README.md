@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose**<br>
+🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose** , **SwiftUi**<br>
 
 
 ## 🌐 Socials:
