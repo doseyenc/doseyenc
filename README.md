@@ -1,6 +1,33 @@
 # 💫 About Me:
-🔭 **Android Developer**<br>💬 Ask me about **Kotlin** , **Java** , **Jetpack Compose** , **SwiftUi**<br>
+🔭 **Android & iOS Developer**<br>
+💬 Ask me about **Kotlin**, **Java**, **Jetpack Compose**, **SwiftUI**<br>
 
+---
+
+<div align="center">
+
+## 🚀 Featured Project
+
+
+### Pennyly: Budget & Receipt App
+
+**Fişlerinizi tarayın, harcamalarınızı saniyeler içinde otomatik olarak takip edin.**
+<br>
+<i>Scan receipts, track expenses automatically, and manage your budget with ease.</i>
+
+<br>
+
+<a href="https://apps.apple.com/us/app/pennyly-budget-receipt-app/id6755784077" target="_blank">
+  <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
+</a>
+&nbsp;
+<a href="https://www.pennyly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Website-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
+</a>
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagridoseyen/) 
@@ -16,4 +43,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doseyenc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
