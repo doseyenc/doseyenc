@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://apps.apple.com/us/app/pennyly-budget-receipt-app/id6755784077" target="_blank">
+<a href="https://apps.apple.com/app/apple-store/id6755784077?pt=128276670&ct=pennyly&mt=8" target="_blank">
   <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
 </a>
 &nbsp;
