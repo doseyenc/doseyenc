@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 **Android & iOS & Multiplatform Developer**<br>
+🔭 **Android & iOS Developer**<br>
 💬 Ask me about **Kotlin**, **Java**, **Jetpack Compose**, **SwiftUI**<br>
 
 ---
