@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
 </a>
 &nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.doseyenc.pennyly" target="_blank">
+  <img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
+</a>
+&nbsp;
 <a href="https://www.pennyly.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Website-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
 </a>
