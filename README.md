@@ -23,12 +23,33 @@
   <img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
 </a>
 &nbsp;
-<a href="https://www.pennyly.com/" target="_blank">
+<a href="https://pennyly.doseyen.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Website-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
 </a>
 
 <br><br>
+
 ---
+
+<br>
+
+### Odometer: Mileage, Speed & Fuel Tracker
+**Sürüşlerinizi kendiliğinden kaydeden; yakıt, bakım ve masrafı tek yerde toplayan araç uygulaması.**
+<br>
+<i>The car app that logs your drives on its own and keeps fuel, service and costs in one place.</i>
+
+<br>
+
+<img src="https://img.shields.io/badge/App_Store_&_Google_Play-Coming_Soon-FF8A50?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming soon to App Store and Google Play"/>
+&nbsp;
+<a href="https://odometer.doseyen.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Website-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
+</a>
+
+<br><br>
+
+---
+
 <br>
 
 ### WaveLift: YouTube to MP3 Converter
@@ -51,7 +72,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagridoseyen/) 
+[![Website](https://img.shields.io/badge/doseyen.com-%2320232a.svg?logo=googlechrome&logoColor=white)](https://doseyen.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagridoseyen/)
 
 <br>
 
