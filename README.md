@@ -40,7 +40,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/App_Store_&_Google_Play-Coming_Soon-FF8A50?style=for-the-badge&logo=rocket&logoColor=white" alt="Coming soon to App Store and Google Play"/>
+<a href="https://apps.apple.com/app/apple-store/id6815174529?pt=128276670&ct=odometer&mt=8" target="_blank">
+  <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.doseyenc.odometer" target="_blank">
+  <img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
+</a>
 &nbsp;
 <a href="https://odometer.doseyen.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Website-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
